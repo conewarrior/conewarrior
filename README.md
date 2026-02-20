@@ -1,18 +1,33 @@
-## 안녕하세요!
-
-프론트엔드 개발자이자 디자인 시스템 아키텍트 Conewarrior입니다. 확장 가능한 UI 시스템과 AI 기반 개발자 도구를 만들고 있습니다.
+사용자 경험을 설계합니다.
+AI로 효율을, 데이터로 근거를,
+시스템으로 일관성을.
 
 🎨 토큰 기반 디자인 시스템을 설계하고 운영하며, 디자인과 개발 사이의 간극을 자동화로 해결합니다.
-
-🛠️ 만든 것들:
-- [**design-system**](https://github.com/conewarrior/design-system) - 자동 기여 및 린팅이 포함된 토큰 기반 디자인 시스템
-- [**claude-toolkit**](https://github.com/conewarrior/claude-toolkit) - Claude Code용 스킬, 에이전트, 커맨드 마켓플레이스
-- [**siot**](https://siot-six.vercel.app) - 개인 포트폴리오 사이트
-- [**peanut-butter-toast**](https://ddangkongjam.com) - 온라인 영화 토론 모임 플랫폼
 
 ⚡ 전문 분야: 디자인 시스템, AI 도구 개발, 프론트엔드, MCP 연동
 
 📫 포트폴리오: [siot](https://siot-six.vercel.app)
+
+## 🛠️ 만든 것들
+
+<table>
+  <tr>
+    <td><a href="https://github.com/conewarrior/design-system"><strong>design-system</strong></a></td>
+    <td>자동 기여 및 린팅이 포함된 토큰 기반 디자인 시스템</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/conewarrior/claude-toolkit"><strong>claude-toolkit</strong></a></td>
+    <td>Claude Code용 스킬, 에이전트, 커맨드 마켓플레이스</td>
+  </tr>
+  <tr>
+    <td><a href="https://siot-six.vercel.app"><strong>siot</strong></a></td>
+    <td>개인 포트폴리오 사이트</td>
+  </tr>
+  <tr>
+    <td><a href="https://ddangkongjam.com"><strong>peanut-butter-toast</strong></a></td>
+    <td>온라인 영화 토론 모임 플랫폼</td>
+  </tr>
+</table>
 
 ## 🛠️ 기술 스택
 
